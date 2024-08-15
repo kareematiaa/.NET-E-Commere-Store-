@@ -1,5 +1,16 @@
-<h1>E-Commerce Project</h1>
-<p>Used technologies: Angular, .NET Core Web API, Entity Framework Core, SQL Server ,
-Generic Design Pattern , Specification Pattern and AutoMapper.</p>
-<p>Authontication and Authorization with login and register </p>
-<p>Create Basket and make order!</p>
+# .NET Web API E-commerce
+
+This API provides endpoints for managing products, orders, and users in an e-commerce system.
+## Features
+* Product catalog with filtering
+* Shopping cart functionality
+* User authentication and registration
+* Order processing and checkout
+* 
+## Technologies
+* ASP.NET Core
+* Entity Framework Core
+* LINQ
+* Sql Server
+* C#
+  
